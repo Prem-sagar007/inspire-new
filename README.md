@@ -1,5 +1,3 @@
-# Welcome to the OpenSea Clone
+# Welcome
 
-To get started, fork this Repl and follow the tutorial
-
-Like & subscribe ❤️
+To get started, fork this Repl 
